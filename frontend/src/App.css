@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800&display=swap');
+
+* {
+    transition: 0.3s ease-in-out !important;
+}
+
+body {
+    background: #172636;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #172636, #06090e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #172636, #06090e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+} 
+
+.appH1 {
+    color: #172636;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 3rem !important;
+    margin-top: 30px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.appP {
+    color: white;
+    text-align: center;
+    margin-top: 2em;
+}
+
