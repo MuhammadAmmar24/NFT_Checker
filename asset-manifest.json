@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NFT-Checker/static/css/main.8853723f.css",
+    "main.js": "/NFT-Checker/static/js/main.f684eb8b.js",
+    "static/js/787.4079df6e.chunk.js": "/NFT-Checker/static/js/787.4079df6e.chunk.js",
+    "index.html": "/NFT-Checker/index.html",
+    "main.8853723f.css.map": "/NFT-Checker/static/css/main.8853723f.css.map",
+    "main.f684eb8b.js.map": "/NFT-Checker/static/js/main.f684eb8b.js.map",
+    "787.4079df6e.chunk.js.map": "/NFT-Checker/static/js/787.4079df6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8853723f.css",
+    "static/js/main.f684eb8b.js"
+  ]
+}
