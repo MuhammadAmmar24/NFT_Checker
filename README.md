@@ -3,8 +3,8 @@
 
  * Mint NFTS
  *  Get Your NFTS with Alchemy NFT API
- 
-![Demo](https://github.com/MuhammadAmmar24/NFT_Checker/frontend/src/87846031/65cff273-fe3a-461c-9542-e3a43c0b9787)
+
+![Demo](https://github.com/MuhammadAmmar24/NFT_Checker/assets/87846031/03ad6964-8ae7-463f-8b55-e6abae782143)
 
 ## Tech Stack
 
